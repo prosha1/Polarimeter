@@ -1,1 +1,1 @@
-ok
+There are four routines in total to determine the Müller matrix of a given waveplate from a measurement of an incoming and outgoing light beam. Two of the routines are for quarter-waveplates and two are for half-waveplates. They differ in the amount of entries and the position of the entries in the Müller matrix which are fitted. The precise form of each fitting matrix and its bounds is explained in the introductory paragraph for each fitting routine.
