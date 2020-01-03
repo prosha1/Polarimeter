@@ -1,0 +1,15 @@
+Filename: 173534_polarimeter_vs_wheel.dat
+Timestamp: Wed May 08 17:35:34 2019
+
+Instrument: Polarimeter
+	BasicMeasSpeed: 66.6666641235
+	DOP: 104.246368408
+	NumberOfBasicPeriods: 2
+	Power: 2.23012989409e-06
+	PowerRange: 0
+	ResultAveraging: 1
+	SignalAveraging: 1
+	StokesParameters: (0.999793601980087, -0.020244327055215422, 0.001708994372387602)
+	Wavelength: 660.0
+Instrument: Polarizer Wheel
+	Position: 0.0
