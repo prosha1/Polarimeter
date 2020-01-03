@@ -1,1 +1,1 @@
-
+This simple script calculates the retardance of a waveplate from its rotation between two LPs. Needs to be used carefully because for achromatic waveplates the retardance is influenced strongly by their waveplate ripple
