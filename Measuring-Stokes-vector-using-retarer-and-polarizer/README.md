@@ -2,3 +2,4 @@ The scripts here can be used to evaluate the Stokes parameters according to the 
 '''diff
 + Nevertheless, the script for circularly polarized light as a calibration measurement should be used, because it has a calculation of     + errors and is better documented
 '''
+Some example measurements are added in the timestamped folder. Their order is explained in the section of the scripts where data is read i.n 
